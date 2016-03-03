@@ -1,6 +1,6 @@
 # Word-Drop
 
-Word drop is an android game. 
+Word drop is an android game.
 
 Features :
 Player Management and Game Modes
